@@ -3,8 +3,8 @@ from setuptools import setup, find_packages
 setup(
 	name='django-mvx-utils',
 	version='0.0.1',
-	description='RESTful Django API views to ease automation of creating symmetric client-side code.',
-	url='https://github.com/symmetricapi/django-symmetric',
+	description='Random utils for Django.',
+	url='https://github.com/mvx24/django-mvx-utils',
 	author='mvx24',
 	author_email='cram2400@gmail.com',
 	license='MIT',
